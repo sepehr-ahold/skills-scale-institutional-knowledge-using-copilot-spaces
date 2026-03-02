@@ -19,6 +19,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager: oversees the deployment process, coordinates release checklists, and ensures all pre-release criteria are met.
+- Quality Lead: defines quality standards and testing protocols, tracks defects, and ensures product readiness before release.
+- Change Champion: drives project adoption by communicating changes, identifying resistance, and facilitating training across teams.
 
 ## Key Artifacts
 - Project Charter / One-pager

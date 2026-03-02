@@ -30,6 +30,9 @@ OctoAcme projects progress through five key phases:
 | **Scrum Master** | Facilitates agile ceremonies and removes impediments |
 | **Development Team** | Designs, builds, and delivers the solution |
 | **QA Engineers** | Ensures quality standards are met throughout the lifecycle |
+| **Release Manager** | Oversees the deployment process and coordinates final release checklists |
+| **Quality Lead** | Defines quality standards, testing protocols, and acceptance criteria |
+| **Change Champion** | Drives project adoption by communicating changes and facilitating training across teams |
 
 ## Communication Strategies
 
